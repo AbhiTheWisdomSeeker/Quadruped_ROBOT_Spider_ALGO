@@ -1,10 +1,37 @@
-# Quadruped_ROBOT_Spider_ALGO
-Components of the Spider Robot
+# Quadruped Spider Robot
 
-So this is A Quadruped Spider Robot Project. where it's Main Components were SG90 Servo moters and Arduino nano.Nano is the Brain 
+This project is about a Quadruped Spider Robot, where its main components are SG90 Servo Motors and an Arduino Nano, which acts as the brain of the robot.
 
-So this SpiderROBOT is Working On sequential Order of Algos Made Using the Invers Kinematics .
+## Components
 
+- SG90 Servo Motors
+- Arduino Nano
 
-Right Now This Repo Contains 2 files 1-Is for the the checking of 90° Correct angles of Servo and the Working of Boards and overall Connections 
-                                     2-Is the main Source Code and Is what Driving the Spider....
+## Working Principle
+
+The spider robot operates based on a sequential order of algorithms created using inverse kinematics.
+
+## Basic Functions
+
+The spider robot can perform the following basic functions:
+- Forward Movement
+- Backward Movement
+- Turns Left
+- Turns Right
+- Says "Hi"
+
+## Files
+
+1. **Spider90**: This file is used for checking the correct angles of the servos (90°) and to verify the working of boards and overall connections.
+
+2. **SpiderSome.ino**: This is the main source code that drives the spider robot.
+
+## How to Use
+
+- Upload the `Spider90` sketch to verify the servo angles.
+- Upload the `SpiderSome.ino` sketch to drive the spider robot.
+
+## Contributions
+
+Contributions are welcome. Feel free to fork the repository and submit pull requests.
+
