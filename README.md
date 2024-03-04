@@ -1,2 +1,6 @@
 # Quadruped_ROBOT_Spider_ALGO
-This is the Source code for Movements of legs developed On Inverse Kinematics ,So basically This is what driving the Qudruped Spider Robot which was our Minor Projects
+Components of the Spider Robot
+
+So this is A Quadruped Spider Robot Project. where it's Main Components were SG90 Servo moters and Arduino nano.Nano is the Brain 
+
+So this SpiderROBOT is Working On sequential Order of Algos Made Using the Invers Kinematics .
